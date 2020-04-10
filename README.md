@@ -6,7 +6,7 @@ When using the app make sure you have kafka files either in the same folder as t
 
 #Trying out some cahnges
 
-
+lxz la
 
 
 
